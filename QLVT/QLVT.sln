@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLVT", "QLVT\QLVT.csproj", "{2D3A8D07-020F-4ECD-9011-462B6F595056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3A8D07-020F-4ECD-9011-462B6F595056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3A8D07-020F-4ECD-9011-462B6F595056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3A8D07-020F-4ECD-9011-462B6F595056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3A8D07-020F-4ECD-9011-462B6F595056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E46892-140D-4141-B5F9-62F62F1FB615}
+	EndGlobalSection
+EndGlobal
